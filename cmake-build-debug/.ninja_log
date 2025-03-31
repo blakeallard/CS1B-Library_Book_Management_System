@@ -1,0 +1,24 @@
+# ninja log v6
+3	302	7635518452832510	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+14	328	7635519780283361	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+13	298	7635521627511263	CMakeFiles/Library_Book_Management_System.dir/main.cpp.obj	9f94bcb5cba55709
+15	306	7635521627531286	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+306	384	7635521630441774	Library_Book_Management_System.exe	f53819acd740fc28
+4	297	7635530333704060	CMakeFiles/Library_Book_Management_System.dir/main.cpp.obj	9f94bcb5cba55709
+6	306	7635530333724103	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+313	385	7635530336792750	Library_Book_Management_System.exe	f53819acd740fc28
+4	283	7635534642253229	CMakeFiles/Library_Book_Management_System.dir/main.cpp.obj	9f94bcb5cba55709
+283	356	7635534645041422	Library_Book_Management_System.exe	f53819acd740fc28
+3	299	7635539911618320	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+299	371	7635539914575964	Library_Book_Management_System.exe	f53819acd740fc28
+13	306	7635541908476280	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+306	381	7635541911409515	Library_Book_Management_System.exe	f53819acd740fc28
+14	306	7635542583570237	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+306	379	7635542586488396	Library_Book_Management_System.exe	f53819acd740fc28
+4	305	7635546511109397	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+305	380	7635546514116407	Library_Book_Management_System.exe	f53819acd740fc28
+3	297	7635547229509455	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
+298	369	7635547232456854	Library_Book_Management_System.exe	f53819acd740fc28
+13	292	7635547799206220	CMakeFiles/Library_Book_Management_System.dir/main.cpp.obj	9f94bcb5cba55709
+292	366	7635547801996892	Library_Book_Management_System.exe	f53819acd740fc28
+5	306	7635548288488656	CMakeFiles/Library_Book_Management_System.dir/Book.cpp.obj	f3290356f80def2b
